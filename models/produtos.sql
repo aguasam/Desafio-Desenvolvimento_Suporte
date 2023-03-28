@@ -1,8 +1,8 @@
-CREATE TABLE produto_pedido (
-    p_id_pedido INT,
-    p_id_produto INT,
-    quantidade INT,
-    FOREIGN KEY (p_id_pedido) REFERENCES pedidos(id_pedido),
-    FOREIGN KEY (p_id_produto) REFERENCES produtos(id_produto),
-    PRIMARY KEY (p_id_pedido, p_id_produto)
+CREATE TABLE produtos (
+    id_produto INT PRIMARY KEY,
+    nome VARCHAR(100),
+    descricao TEXT,
+    preco DECIMAL(10,2),
+    id_categoria INT,
+    FOREIGN KEY (id_categoria) REFERENCES categorias(id_categoria)
 );
