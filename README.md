@@ -7,6 +7,11 @@ Durante a execução deste processo, foram identificadas algumas dificuldades, u
 Porém, não foi possível desenvolver uma maneira satisfatória para a inserção automática de dados nas tabelas, o que acabou por impedir a finalização do projeto e, consequentemente, a etapa de backup dos dados. Mesmo assim, considero que o projeto foi extremamente proveitoso, agregando muito conhecimento e colaborando para o meu desenvolvimento na área de software.
 Por fim, pretendo continuar meus estudos nesta área, com o objetivo de aprimorar ainda mais minhas habilidades e conhecimentos. Sem dúvida, este desafio representou um diferencial em meu desenvolvimento e contribuiu significativamente para meus próprios estudos.*
 
+https://cursos.alura.com.br/formacao-postgresql - Formação postgreSQL
+
+https://www.youtube.com/watch?v=kMznyI7r2Tc&ab_channel=C%C3%B3digoFonteTV - SQL // Dicionário do Programador
+
+https://www.youtube.com/watch?v=_7nISfpofec&ab_channel=FabioAkita - Fiz um servidor de "SQL"?? | Entendendo Banco de Dados
 
 ## Introdução
 
